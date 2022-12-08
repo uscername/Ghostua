@@ -1,0 +1,54 @@
+local library = loadstring(game:HttpGet(('https://raw.githubusercontent.com/bloodball/-back-ups-for-libs/main/wall%20v3')))()
+
+local w = library:CreateWindow("BeeswarmHub-Micro") -- Creates the window
+
+local b = w:CreateFolder("BeeswarnScripts") -- Creates the folder(U will put here your buttons,etc)
+
+b:Label("BeeSwarm",{
+
+    TextSize = 25; -- Self Explaining
+
+    TextColor = Color3.fromRGB(255,255,255); -- Self Explaining
+
+    BgColor = Color3.fromRGB(69,69,69); -- Self Explaining
+
+    
+
+}) 
+
+b:Button("Historiahub",function()
+
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Historia00012/HISTORIAHUB/main/BSS%20FREE"))()
+
+end)
+
+b:Button("Weiny",function()
+
+    
+loadstring(game:HttpGet('https://raw.githubusercontent.com/weiny-ez/w-main/main/loader.lua'))()
+
+end)
+
+b:Button("Blox",function()
+
+   loadstring(game:HttpGet('https://raw.githubusercontent.com/max0mind/lua/main/loader.lua'))()
+
+end)
+
+b:Button("Darkcyber",function()
+
+   loadstring(game:HttpGet("https://pastebin.com/raw/3A61hnGA", true))()
+
+end)
+
+b:Button("Trainer",function()
+
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/infinitylua/Luascripts/main/KJFsdEj8sXrja.lua"))()
+
+end)
+
+b:DestroyGui()
+
+b:Button("BYGHOSTUA",function()
+   
+end)
