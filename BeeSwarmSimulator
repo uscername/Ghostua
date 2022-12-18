@@ -47,6 +47,13 @@ b:Button("Trainer",function()
 
 end)
 
+b:Button("kometa",function()
+
+   loadstring(game:HttpGet('https://s.kometa.ga/kometa.lua'))()
+
+
+end)
+
 b:DestroyGui()
 
 b:Button("BYGHOSTUA",function()
