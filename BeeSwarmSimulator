@@ -29,12 +29,6 @@ loadstring(game:HttpGet('https://raw.githubusercontent.com/weiny-ez/w-main/main/
 
 end)
 
-b:Button("Blox",function()
-
-   loadstring(game:HttpGet('https://raw.githubusercontent.com/max0mind/lua/main/loader.lua'))()
-
-end)
-
 b:Button("Darkcyber",function()
 
    loadstring(game:HttpGet("https://pastebin.com/raw/3A61hnGA", true))()
