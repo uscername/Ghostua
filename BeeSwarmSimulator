@@ -24,8 +24,7 @@ end)
 
 b:Button("Weiny",function()
 
-    
-loadstring(game:HttpGet('https://raw.githubusercontent.com/weiny-ez/w-main/main/loader.lua'))()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/weiny-ez/w-main/main/loader.lua'))()
 
 end)
 
