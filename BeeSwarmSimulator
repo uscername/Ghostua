@@ -59,12 +59,6 @@ b:Button("Pepsi(rick)",function()
 
 end)
 
-b:Button("Doesn't work on phones ∆",function()
-
-   
-
-end)
-
 b:Button("BYGHOSTUA",function()
    
 end)
