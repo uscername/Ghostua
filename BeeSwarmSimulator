@@ -47,7 +47,11 @@ b:Button("kometa",function()
 
 end)
 
-b:DestroyGui()
+b:Button("macro",function()
+
+   loadstring(game:HttpGet("https://www.macrov2-script.xyz/macrov2.lua"))()
+
+end)
 
 b:Button("BYGHOSTUA",function()
    
