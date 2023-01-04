@@ -59,6 +59,8 @@ b:Button("Pepsi(rick)",function()
 
 end)
 
-b:Button("BYGHOSTUA",function()
+b:DestroyGui()
+
+b:Button("By Ghostua",function()
    
 end)
