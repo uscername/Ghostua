@@ -22,9 +22,9 @@ b:Button("Historiahub",function()
 
 end)
 
-b:Button("Weiny",function()
+b:Button("kocmoc",function()
 
-    loadstring(game:HttpGet('https://raw.githubusercontent.com/weiny-ez/w-main/main/loader.lua'))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Boxking776/kocmoc/main/kocmoc-remastered.lua"))()
 
 end)
 
