@@ -53,6 +53,12 @@ b:Button("macro",function()
 
 end)
 
+b:Button("Pepsi(rick)",function()
+
+   loadstring(game:GetObjects("rbxassetid://4384103988")[0X1].Source)("Pepsi Swarm")
+
+end)
+
 b:Button("BYGHOSTUA",function()
    
 end)
