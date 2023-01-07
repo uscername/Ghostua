@@ -51,12 +51,6 @@ b:Button("macro",function()
 
    loadstring(game:HttpGet("https://www.macrov2-script.xyz/macrov2.lua"))()
 
-game:GetService("StarterGui"):SetCore("SendNotification", { 
- Title = "notify";
- Text = "Doesn't work on phones";
- Icon = "rbxthumb://type=Asset&id=5107182114&w=150&h=150"})
-Duration = 10;
-
 end)
 
 b:Button("Pepsi(rick)",function()
